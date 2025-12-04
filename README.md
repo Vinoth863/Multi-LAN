@@ -1,5 +1,8 @@
 # Multi-LAN
+# DEFINITION
+A Multi-LAN network with a single router is a setup where multiple LAN segments, each with its own IP subnet, are interconnected through one router. The router routes traffic between the LANs, enabling communication, resource sharing, and centralized management across all connected networks.
 
+# PROJECT DEFINITION
 A multi-LAN setup was implemented using a single router to interconnect two networks: 192.168.0.0/24 and 192.168.1.0/24. The router was configured with separate interfaces/sub-interfaces for each LAN, enabling routing between both network segments and ensuring proper connectivity for all devices in the two areas.
 
 
